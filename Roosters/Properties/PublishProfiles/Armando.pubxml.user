@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://www.armando88.com/public_html</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Roosters.dll">
+      <publishTime>03/31/2015 00:45:09</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>03/30/2015 23:43:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>03/30/2015 15:41:09</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>03/30/2015 23:43:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/31/2015 00:09:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>03/30/2015 15:41:09</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/31/2015 00:09:09</publishTime>
+    </File>
+    <File Include="Content/grayscale.css">
+      <publishTime>03/31/2015 01:47:08</publishTime>
+    </File>
+    <File Include="Content/_bootswatch.scss">
+      <publishTime>03/30/2015 16:50:46</publishTime>
+    </File>
+    <File Include="Content/_variables.scss">
+      <publishTime>03/30/2015 16:50:41</publishTime>
+    </File>
+    <File Include="font-awesome/css/font-awesome.css">
+      <publishTime>03/30/2015 17:12:48</publishTime>
+    </File>
+    <File Include="font-awesome/css/font-awesome.min.css">
+      <publishTime>03/30/2015 17:12:48</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>03/30/2015 17:13:02</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>03/30/2015 17:13:02</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>03/30/2015 17:13:02</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>03/30/2015 17:13:02</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/FontAwesome.otf">
+      <publishTime>03/30/2015 17:13:02</publishTime>
+    </File>
+    <File Include="font-awesome/less/bordered-pulled.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/core.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/fixed-width.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/font-awesome.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/icons.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/larger.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/list.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/mixins.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/path.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/rotated-flipped.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/spinning.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/stacked.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/less/variables.less">
+      <publishTime>03/30/2015 17:13:13</publishTime>
+    </File>
+    <File Include="font-awesome/scss/font-awesome.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_bordered-pulled.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_core.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_fixed-width.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_icons.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_larger.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_list.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_mixins.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_path.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_rotated-flipped.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_spinning.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_stacked.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_variables.scss">
+      <publishTime>03/30/2015 17:13:25</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/30/2015 15:41:09</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/30/2015 15:41:09</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/30/2015 15:41:09</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/30/2015 15:41:09</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>03/30/2015 15:41:09</publishTime>
+    </File>
+    <File Include="img/downloads-bg.jpg">
+      <publishTime>03/30/2015 17:01:08</publishTime>
+    </File>
+    <File Include="img/intro-bg.jpg">
+      <publishTime>03/30/2015 17:01:08</publishTime>
+    </File>
+    <File Include="img/map-marker.png">
+      <publishTime>03/30/2015 17:01:08</publishTime>
+    </File>
+    <File Include="img/menuofservices~~element66.jpg">
+      <publishTime>03/30/2015 22:56:01</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>03/31/2015 01:44:57</publishTime>
+    </File>
+    <File Include="less/grayscale.less">
+      <publishTime>03/30/2015 16:57:48</publishTime>
+    </File>
+    <File Include="less/mixins.less">
+      <publishTime>03/30/2015 16:57:48</publishTime>
+    </File>
+    <File Include="less/variables.less">
+      <publishTime>03/30/2015 16:57:48</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/30/2015 17:09:39</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/30/2015 17:00:13</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/30/2015 17:00:14</publishTime>
+    </File>
+    <File Include="Scripts/grayscale.js">
+      <publishTime>03/30/2015 17:00:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.3.js">
+      <publishTime>03/30/2015 15:41:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.3.min.js">
+      <publishTime>03/30/2015 15:41:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.3.min.map">
+      <publishTime>03/30/2015 15:41:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery.easing.min.js">
+      <publishTime>03/30/2015 17:00:14</publishTime>
+    </File>
+    <File Include="Scripts/jquery.js">
+      <publishTime>03/30/2015 17:00:14</publishTime>
+    </File>
+    <File Include="Scripts/npm.js">
+      <publishTime>03/30/2015 15:41:09</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/31/2015 00:45:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

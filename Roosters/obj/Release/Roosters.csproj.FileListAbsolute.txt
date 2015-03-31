@@ -1,0 +1,6 @@
+C:\Users\Armando\documents\visual studio 2013\Projects\Roosters\Roosters\bin\Roosters.dll.config
+C:\Users\Armando\documents\visual studio 2013\Projects\Roosters\Roosters\bin\Roosters.dll
+C:\Users\Armando\documents\visual studio 2013\Projects\Roosters\Roosters\bin\Roosters.pdb
+C:\Users\Armando\documents\visual studio 2013\Projects\Roosters\Roosters\obj\Release\Roosters.csprojResolveAssemblyReference.cache
+C:\Users\Armando\documents\visual studio 2013\Projects\Roosters\Roosters\obj\Release\Roosters.dll
+C:\Users\Armando\documents\visual studio 2013\Projects\Roosters\Roosters\obj\Release\Roosters.pdb
